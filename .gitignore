@@ -1,0 +1,99 @@
+##############
+# .NET Core / ASP.NET Core
+##############
+
+# Build outputs
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# ASP.NET Secrets
+secrets.json
+
+# Publish outputs
+publish/
+
+# Connected Services & auto-generated service references
+Connected Services/
+
+# Don't track local config secrets or dev-specific settings
+appsettings.Development.json
+appsettings.Local.json
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Resharper / Rider
+*.DotSettings.user
+.idea/
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# Git directories
+*.git/
+
+# Ignore HTTP test files (optional)
+*.http
+
+
+## Ignore Visual Studio build results and user-specific files
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+
+# Rider / VS Code / Logs
+.idea/
+.vscode/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publish output
+publish/
+out/
+
+# ASP.NET Secrets
+secrets.json
+
+# Optional - local app settings
+appsettings.Development.json
+.vs/
