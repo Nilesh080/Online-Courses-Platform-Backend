@@ -97,3 +97,4 @@ secrets.json
 # Optional - local app settings
 appsettings.Development.json
 .vs/
+appsettings.json
